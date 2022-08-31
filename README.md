@@ -1,1 +1,1 @@
-Grundy
+not empty
